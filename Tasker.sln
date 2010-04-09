@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskerv2", "Tasker\Taskerv2.csproj", "{A1ACFAEA-29E6-406C-A4E6-DB08C6E6FDB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskerv1", "Taskerv1\Taskerv1.csproj", "{4806CB48-9CF1-413E-9689-88B536656309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1ACFAEA-29E6-406C-A4E6-DB08C6E6FDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1ACFAEA-29E6-406C-A4E6-DB08C6E6FDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1ACFAEA-29E6-406C-A4E6-DB08C6E6FDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1ACFAEA-29E6-406C-A4E6-DB08C6E6FDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4806CB48-9CF1-413E-9689-88B536656309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4806CB48-9CF1-413E-9689-88B536656309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4806CB48-9CF1-413E-9689-88B536656309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4806CB48-9CF1-413E-9689-88B536656309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

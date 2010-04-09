@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasker>
+    <location>
+        <x>655</x>
+        <y>209</y>
+    </location>
+    <tasks>3</tasks>
+    <task>
+        <name>Have Sex</name>
+        <level>0</level>
+        <done>False</done>
+        <priority>4</priority>
+    </task>
+    <task>
+        <name>With meow</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>1</priority>
+    </task>
+    <task>
+        <name>With NO ONE ELSE</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>2</priority>
+    </task>
+</tasker>

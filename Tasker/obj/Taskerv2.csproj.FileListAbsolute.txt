@@ -1,0 +1,9 @@
+D:\Programming\C#\Projects\Tasker\Tasker\bin\Debug\Tasker.exe
+D:\Programming\C#\Projects\Tasker\Tasker\bin\Debug\Tasker.pdb
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Tasker.MainForm.resources
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Tasker.Properties.Resources.resources
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Taskerv2.csproj.GenerateResource.Cache
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Tasker.exe.licenses
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Tasker.exe
+D:\Programming\C#\Projects\Tasker\Tasker\obj\Debug\Tasker.pdb

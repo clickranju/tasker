@@ -1,0 +1,10 @@
+bin\Debug\Taskerv1.exe
+bin\Debug\Taskerv1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Taskerv1.Properties.Resources.resources
+obj\Debug\Taskerv1.csproj.GenerateResource.Cache
+obj\Debug\Taskerv1.exe
+obj\Debug\Taskerv1.pdb
+obj\Debug\Taskerv1.MainForm.resources
+obj\Debug\Taskerv1.AddModifyTask.resources
+obj\Debug\Taskerv1.About.resources

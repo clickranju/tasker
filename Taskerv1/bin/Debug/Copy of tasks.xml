@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasker>
+    <location>
+        <x>911</x>
+        <y>173</y>
+    </location>
+    <tasks>10</tasks>
+    <task>
+        <name>Things to do</name>
+        <level>0</level>
+        <done>False</done>
+        <priority>1</priority>
+    </task>
+    <task>
+        <name>Take Butter :)</name>
+        <level>1</level>
+        <done>True</done>
+        <priority>4</priority>
+    </task>
+    <task>
+        <name>Get Number - Words algorithm</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>3</priority>
+    </task>
+    <task>
+        <name>Current Projects :)</name>
+        <level>0</level>
+        <done>False</done>
+        <priority>2</priority>
+    </task>
+    <task>
+        <name>Disync</name>
+        <level>1</level>
+        <done>True</done>
+        <priority>3</priority>
+    </task>
+    <task>
+        <name>Tasker</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>4</priority>
+    </task>
+    <task>
+        <name>IMS - Yet to start</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>2</priority>
+    </task>
+    <task>
+        <name>Pending :|</name>
+        <level>0</level>
+        <done>False</done>
+        <priority>3</priority>
+    </task>
+    <task>
+        <name>[Ftransv2] Testing</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>3</priority>
+    </task>
+    <task>
+        <name>[Disync] Sync folder with drive</name>
+        <level>1</level>
+        <done>False</done>
+        <priority>4</priority>
+    </task>
+</tasker>
